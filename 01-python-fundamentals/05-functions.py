@@ -9,7 +9,7 @@ greet("Sarah")
 greet("John")
 
 
-# Function that returns a values
+# Function that returns a values. Parameters are defined, arguments are called/invoked.
 def calculate_price_with_tax(price, tax_rate):
     return price * (1 + tax_rate)
 
